@@ -1,0 +1,77 @@
+
+body {
+      background-image: url(../images/image1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: red;
+    font-family: Verdana, Arial,sans-serif;
+}
+
+.wrapper {
+    
+}
+
+header {
+    background-color: cadetblue;
+    color: #ffffff;
+    font-family: Georgia, sans-serif;
+    font-size: 45px;
+    padding-left: 20px;
+    text-align: center;
+}
+
+.headtitle {
+    font-size: 40px;
+    margin-left: 10px;
+    height: 72px;
+    color:white;
+    text-align: center;
+    margin-top: 5em;
+}
+
+nav {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+nav ul{
+}
+
+nav ul li {
+    list-style-type: none;
+    margin: 0px;
+    padding-left: 0px;
+   
+}
+
+nav ul li a {
+    
+    text-decoration: none;
+     padding-right: 30px;
+}
+
+nav ul li a:link {
+    color: #000033;
+}
+
+nav ul li a:visited {
+    color: #344873;
+}
+
+nav ul li a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+p {
+    margin-left: 15px;
+}
+
+footer {
+    font-style: italic;
+    text-align: center;
+    
+    
+}
+style.css
+Displaying style.css.
